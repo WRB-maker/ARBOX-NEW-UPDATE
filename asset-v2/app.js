@@ -83,7 +83,7 @@ var app = new function() {
     }], this.bonusarray = [{
         name: "Airport",
         src: "v2-b1-airport-hb.mp4",
-        code: "1,4,6,12,16",
+        code: "1,4,6,12,20",
         sound: "21_bonus_airport",
         aspire: "aspire"
     }, {
