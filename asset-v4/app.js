@@ -89,7 +89,7 @@ var app = new function() {
     }, {
         name: "The Virus",
         src: "the_virus_bonus-hb.mp4",
-        code: "1,2,11,15,19",
+        code: "1,2,11,13,19",
         sound: "bonus-the_virus",
         aspire: "reunion-aspire"
     }, {
