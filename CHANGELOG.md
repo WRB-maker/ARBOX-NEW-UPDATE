@@ -1,7 +1,7 @@
 # Changelog
 
 ## **[4.5.1] (latest)**
-* updated greeting text and other text
+* updated greeting text and other text and bonus code changes
 
 ## **[V4.5]**
 * Armed - All Scenes
