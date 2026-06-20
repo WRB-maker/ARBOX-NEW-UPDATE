@@ -89,7 +89,7 @@ var app = new function() {
     }, {
         name: "Discoveries",
         src: "v1-b2-discoveries-hb.mp4",
-        code: "1,4,10,14,19",
+        code: "1,5,10,14,20",
         sound: "22_bonus_discoveries",
         aspire: "aspire"
     }];
