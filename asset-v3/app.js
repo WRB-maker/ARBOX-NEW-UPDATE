@@ -89,7 +89,7 @@ var app = new function() {
     }, {
         name: "Reveal",
         src: "v3-b2-reveal-hb.mp4",
-        code: "1,5,6,14,19",
+        code: "1,6,9,14,19",
         sound: "22_bonus_reveal",
         aspire: "aspire"
     }, {
