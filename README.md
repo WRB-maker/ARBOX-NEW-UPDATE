@@ -17,4 +17,4 @@ Arbute comes from the word "Arbutus" which is a fruit tree, referring to the pla
 
 ## updates
 
-updates wont come often maybe usually 6 months depending on how our teams motivation is
+updates wont come often maybe usually 6 months depending on how my motivation is
