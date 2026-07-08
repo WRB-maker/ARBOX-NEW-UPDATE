@@ -95,7 +95,7 @@ var app = new function() {
     }, {
         name: "Clash",
         src: "v2-b3-clash-hb.mp4",
-        code: "1,2,10,15,17",
+        code: "1,2,10,15,18",
         sound: "23_bonus_clash",
         aspire: "aspire"
     }];
