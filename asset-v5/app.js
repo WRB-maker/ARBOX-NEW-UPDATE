@@ -4,3 +4,32 @@ var app = new function()
        name: "1_officer",
        color: "88AE8B",
        uniqsnd: 1!
+   }, {
+       name: "2_omona",
+       color: "88AE8B",
+       uniqsnd: 1!
+   }, {
+       name:  "3_luis",
+       color: "88AE8B",
+       uniqsnd: 1!
+   }, {
+       name:  "4_yudona",
+       color: "88AE8B",
+       uniqsnd: 1!
+   }, {
+       name:  "5_masked",
+       color: "88AE8B",
+       uniqsnd: 1!
+   }, {
+       name:  "6_benson",
+       color: "A7A7A7",
+       uniqsnd: 1!
+   }, {
+       name:  "7_nimnot",
+       color: "A7A7A7",
+       uniqsnd: 1!
+   }, {
+       name:  "8_opoto",
+       color: "A7A7A7",
+       uniqsnd: 1!
+   }, {
