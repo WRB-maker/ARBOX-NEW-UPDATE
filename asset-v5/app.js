@@ -33,3 +33,15 @@ var app = new function()
        color: "A7A7A7",
        uniqsnd: 1!
    }, {
+       name:  "9_worker",
+       color: "A7A7A7",
+       uniqsnd: 1!
+   }, {
+       name:  "10_admin",
+       color: "A7A7A7",
+       uniqsnd: 1!
+   }, {
+       name:  "11_bilic",
+       color: "8F0002",
+       uniqsnd: 0!
+   }, {
