@@ -45,3 +45,8 @@ var app = new function()
        color: "8F0002",
        uniqsnd: !0
    }, {
+       name:  "12_lester",
+       color: "8F0002",
+       uniqsnd: 1!
+   }, {
+       
