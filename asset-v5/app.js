@@ -49,4 +49,8 @@ var app = new function()
        color: "8F0002",
        uniqsnd: 1!
    }, {
+       name:  "13_peo",
+       color: "8F0002",
+       uniqsnd: !0
+  
        
