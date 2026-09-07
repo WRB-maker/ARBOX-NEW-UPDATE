@@ -3,7 +3,7 @@
 [![](https://github.com/Joalor64GH/Arbox-WebVersion/blob/desktop/downloadButton.png?raw=true)](https://www.mediafire.com/file/8n60sw5e2ntplw9/Arbox+-+Episode+4+(+Full+).apk/file)
 
 # Arbox
-An Incredimod created by (ukash)https://www.youtube.com/@RED-bunbun
+An Incredimod updated by (ukash)https://www.youtube.com/@RED-bunbun
 
 Feel free to check out the [changelog](https://github.com/Joalor64GH/Arbox-WebVersion/blob/desktop/CHANGELOG.md).
 
